@@ -1,5 +1,3 @@
-Grocery CRUD
+Sistema Editora
 =============
-Grocery CRUD is a PHP and Codeigniter Framework library that creates a full functional CRUD system without the need to customise JavaScript or CSS.
-
-For more information, visit http://www.grocerycrud.com
+O pequeno sistema neste repositório é uma representação visual do controle de produção de livros em uma editora do mundo real. Foi utilizada a linguagem PHP com o auxílio do framework CodeIgniter e GroceryCrud. O bando de dados utilizado é o MySql, o dump do mesmo encontra-se na raiz.
